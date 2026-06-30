@@ -79,7 +79,7 @@ The portfolio combines fundamental investment research, portfolio construction, 
 
 ## Repository Contents
 
-- ESG_Growth_Portfolio_Analysis.pdf
+- Institutional_ESG_Portfolio_Pitch.pdf
 
 ---
 
