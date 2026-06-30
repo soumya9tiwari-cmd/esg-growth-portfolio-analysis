@@ -2,65 +2,87 @@
 
 ## Overview
 
-This project presents the design and analysis of an institutional ESG-focused investment portfolio created as part of an investment management assignment.
+This project presents **SYNAPSE**, an institutional-style ESG growth portfolio developed as part of a graduate investment management course.
 
-The portfolio is constructed around a long-term investment thesis focused on three structural growth themes:
+Our team was assigned to create an investment portfolio inspired by the research, portfolio construction, and presentation standards commonly used by institutional asset managers. We developed **SYNAPSE**, a long-term investment strategy focused on structural growth opportunities at the intersection of healthcare innovation, AI infrastructure, and clean energy.
+
+The portfolio combines fundamental investment research, portfolio construction, risk management, ESG analysis, and performance evaluation into a professional investment pitch.
+
+---
+
+## Project Objectives
+
+- Construct an institutional-quality ESG investment portfolio
+- Develop a long-term thematic investment strategy
+- Evaluate portfolio performance against the S&P 500
+- Analyze portfolio risk using multiple performance metrics
+- Assess diversification and correlation across holdings
+- Integrate ESG considerations into the investment process
+
+---
+
+## Investment Themes
 
 - Healthcare Innovation
-- Semiconductor Infrastructure
+- AI Infrastructure & Semiconductors
 - Clean & Sustainable Energy
 
-The project evaluates portfolio construction, performance, risk characteristics, diversification, and ESG considerations while benchmarking results against the S&P 500.
-
 ---
 
-## Objectives
+## Project Components
 
-- Construct a diversified ESG-focused equity portfolio
-- Develop a long-term investment thesis
-- Evaluate portfolio performance against the benchmark
-- Analyze portfolio risk and diversification
-- Assess sustainability using ESG metrics
-- Present findings in an institutional investment pitch format
+### Portfolio Construction
 
----
+- Sector allocation
+- Security selection
+- Portfolio weighting
+- Diversification strategy
 
-## Portfolio Highlights
+### Performance Analysis
 
-- 12 equity holdings across three sectors
-- Sector allocation strategy
-- Portfolio performance benchmarking
-- Risk-adjusted performance analysis
-- Diversification and correlation analysis
-- ESG scorecard and sustainability assessment
-- Individual company investment thesis and portfolio rationale
+- Historical portfolio performance
+- Benchmark comparison
+- Risk-adjusted returns
+- Portfolio attribution
 
----
+### Risk Management
 
-## Key Topics Covered
-
-- Portfolio Construction
-- Asset Allocation
-- Investment Thesis Development
-- Performance Benchmarking
-- Risk Analysis
 - Sharpe Ratio
 - Sortino Ratio
-- Beta
 - Alpha
+- Beta
 - Maximum Drawdown
 - Correlation Analysis
+- Diversification Assessment
+
+### ESG Analysis
+
+- ESG scorecard
+- Sustainability evaluation
+- Governance assessment
+- Environmental and social impact considerations
+
+---
+
+## Tools & Skills
+
+- Portfolio Management
+- Equity Research
+- Investment Analysis
+- Asset Allocation
+- Risk Management
 - ESG Investing
-- Institutional Portfolio Management
+- Financial Analysis
+- Investment Pitch Development
 
 ---
 
-## Deliverables
+## Repository Contents
 
-- Institutional investment pitch presentation (PDF)
+- ESG_Growth_Portfolio_Analysis.pdf
 
 ---
 
-## Disclaimer
+## Academic Context
 
-This project was completed for educational purposes as part of an academic investment management assignment and should not be considered investment advice.
+This project was completed as part of a graduate investment management course. Our team was tasked with developing an institutional-style investment portfolio inspired by the analytical and presentation approach used by large asset managers. **SYNAPSE** is an original portfolio created by our team for educational purposes and is not affiliated with or endorsed by BlackRock.
